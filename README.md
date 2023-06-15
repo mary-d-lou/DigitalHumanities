@@ -5,4 +5,4 @@ Therefore, I wanted to know which characters appear the most (I couldn't find a 
 This is why, in this project, I created a script that helps visualize the 20 characters who appear in most chapters in One Piece.
 You can click on the button below to access my Binder page:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mary-d-lou/DigitalHumanities/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mary-d-lou/DigitalHumanities/HEAD)
