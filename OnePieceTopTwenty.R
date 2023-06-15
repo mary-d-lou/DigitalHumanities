@@ -3,6 +3,7 @@ library(ggplot2) #for plotting
 library(readxl) #to read Excel files
 library(png) #to read PNG images
 library(grid) #to customize a plot (rasterGrob)
+library(utf8) #so databases are read in Unicode
 
 #reading external files
 chapters <- read_excel("OnePieceData.xlsx") #database that tracks which characters appear in each chapter
