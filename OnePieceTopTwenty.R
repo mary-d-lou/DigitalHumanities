@@ -6,7 +6,7 @@ library(grid) #to customize a plot (rasterGrob)
 
 #reading external files
 chapters <- read_excel("OnePieceData.xlsx") #database that tracks which characters appear in each chapter
-characters <- read.csv("Characters.csv") #database that contains a list of all character names
+characters <- read_csv("Characters.csv") #database that contains a list of all character names
 background <- readPNG("One_piece_logo.png") #background image
 
 #creating a new table that contains the names of the characters and in how many chapters they appear  
